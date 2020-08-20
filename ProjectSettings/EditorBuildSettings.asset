@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Uranus.unity
+    guid: 8fe35bcc50ad2614eb4f75d70140cca0
+  - enabled: 0
+    path: Assets/Scenes/Mars.unity
+    guid: acf2d5c0ea2d4a74da96deac881972e4
+  - enabled: 0
+    path: Assets/Scenes/User Interface.unity
+    guid: 69f57e54fca19d04a9d012e173e1aa30
   m_configObjects: {}
