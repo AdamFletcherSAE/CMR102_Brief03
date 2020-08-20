@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: c1de2f37cb814674b8612ce3013594bf, type: 3}
-  m_Name: Uranus Generator
+  m_Name: Uranus Generator 1
   m_EditorClassIdentifier: 
   seedSurface: 347762745
   seedLand: 697545374
@@ -39,9 +39,9 @@ MonoBehaviour:
     smearFalloff: 1.9825792
     smearIntensity: 8.006047
   landColour0: {r: 0.51744395, g: 0.9013772, b: 0.9622642, a: 1}
-  landColour1: {r: 0, g: 0.603487, b: 1, a: 1}
-  landColour2: {r: 0.019857764, g: 0.65015423, b: 0.6802826, a: 1}
-  landColour3: {r: 0, g: 0.84379864, b: 1, a: 1}
+  landColour1: {r: 0, g: 1, b: 0.87146807, a: 1}
+  landColour2: {r: 0.028301895, g: 0.9595123, b: 1, a: 1}
+  landColour3: {r: 0.5471698, g: 0.92896783, b: 1, a: 1}
   landColourNoise01:
     scale: 8.803533
     octaves: 4
@@ -62,8 +62,8 @@ MonoBehaviour:
     smearOctaves: 3
     smearFalloff: 0.48181534
     smearIntensity: 6.924614
-  waterColour0: {r: 0, g: 0.7417611, b: 0.9622642, a: 1}
-  waterColour1: {r: 0, g: 0.48327294, b: 0.9607843, a: 1}
+  waterColour0: {r: 0, g: 0.9607843, b: 0.9607841, a: 1}
+  waterColour1: {r: 0.5, g: 0.75102043, b: 1, a: 1}
   waterLevel: 0.21
   waterSpecular: 0.5850572
   waterFalloff: 6.3054
@@ -99,8 +99,8 @@ MonoBehaviour:
   cloudWorleyNoiseAmplitude: 9.584303
   cloudShadowRange: 5.3163767
   cloudShadowStrength: 0.2762422
-  cloudColour0: {r: 0.017799914, g: 0.75304615, b: 0.9433962, a: 1}
-  cloudColour1: {r: 0.34442863, g: 0.7578846, b: 0.8490566, a: 1}
+  cloudColour0: {r: 0.39248842, g: 0.990566, b: 0.9525474, a: 1}
+  cloudColour1: {r: 0.5775187, g: 0.829982, b: 0.9716981, a: 1}
   cloudSpin: 9.460698
   cloudNormalScale: 0.01
   size: 0
