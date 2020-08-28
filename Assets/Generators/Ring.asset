@@ -38,10 +38,10 @@ MonoBehaviour:
     smearOctaves: 1
     smearFalloff: 1.9825792
     smearIntensity: 8.006047
-  landColour0: {r: 0.7924528, g: 0.9724495, b: 1, a: 1}
-  landColour1: {r: 1, g: 1, b: 1, a: 1}
-  landColour2: {r: 0.9622642, g: 0.99730456, b: 1, a: 1}
-  landColour3: {r: 0.9811321, g: 0.99698114, b: 1, a: 1}
+  landColour0: {r: 0.6792453, g: 0.6420116, b: 0.38447848, a: 1}
+  landColour1: {r: 0.5377358, g: 0.4464222, b: 0.24350302, a: 1}
+  landColour2: {r: 0.6320754, g: 0.5474657, b: 0.33392665, a: 1}
+  landColour3: {r: 0.5849056, g: 0.52814925, b: 0.28693482, a: 1}
   landColourNoise01:
     scale: 8.803533
     octaves: 4
@@ -62,12 +62,12 @@ MonoBehaviour:
     smearOctaves: 3
     smearFalloff: 0.48181534
     smearIntensity: 6.924614
-  waterColour0: {r: 0.8679245, g: 0.9698113, b: 1, a: 1}
-  waterColour1: {r: 0.7333571, g: 0.853014, b: 0.9716981, a: 1}
+  waterColour0: {r: 0.9622642, g: 0.7021604, b: 0.26326096, a: 1}
+  waterColour1: {r: 0.6892975, g: 0.6981132, b: 0.32929868, a: 1}
   waterLevel: 0.21
   waterSpecular: 0.5850572
   waterFalloff: 6.3054
-  iceColour: {r: 1, g: 1, b: 1, a: 1}
+  iceColour: {r: 0.7075472, g: 0.56803644, b: 0.13349944, a: 1}
   iceReach: 0.0042176247
   iceHeight: 0.9472302
   shadowRange: 10.344851
@@ -85,23 +85,23 @@ MonoBehaviour:
   cityFalloff: 0.5261616
   normalScale: 0.1
   cloudNoise:
-    scale: 1.9301858
-    octaves: 5
-    falloff: 10.135144
-    intensity: 15.981386
+    scale: 5.1
+    octaves: 3
+    falloff: 7.7
+    intensity: 15.3
     ridginess: 0.48054188
     smearScale: 14.885772
     smearOctaves: 4
     smearFalloff: 12.34744
     smearIntensity: 11.034418
   cloudWorleyNoiseOctaves: 0
-  cloudWorleyNoiseFrequency: 11.043086
-  cloudWorleyNoiseAmplitude: 9.584303
-  cloudShadowRange: 5.3163767
-  cloudShadowStrength: 0.2762422
-  cloudColour0: {r: 0.017799914, g: 0.75304615, b: 0.9433962, a: 1}
-  cloudColour1: {r: 0.34442863, g: 0.7578846, b: 0.8490566, a: 1}
-  cloudSpin: 9.460698
-  cloudNormalScale: 0.01
-  size: 0
+  cloudWorleyNoiseFrequency: 55.8
+  cloudWorleyNoiseAmplitude: 2.41
+  cloudShadowRange: 24.2
+  cloudShadowStrength: 0.117
+  cloudColour0: {r: 1, g: 0.9548905, b: 0.754717, a: 1}
+  cloudColour1: {r: 0.6603774, g: 0.6002015, b: 0.504628, a: 1}
+  cloudSpin: 5.94
+  cloudNormalScale: 0.247
+  size: 1
   combineHeightWithCity: 1
