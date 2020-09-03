@@ -164,7 +164,7 @@ public class DualTracker : MonoBehaviour, ITrackableEventHandler
     {
         if(trackerFound)
         {
-            audioSource.Play();
+           audioSource.Play();
             Time.timeScale = 1f;
         }
         else
